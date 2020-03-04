@@ -1,5 +1,5 @@
 # Lucky Unicorn Fully Working Program
-# Program should work - needs to be tested for usability
+# Program should work - needs to be tested for usability ok
 
 import random
 
